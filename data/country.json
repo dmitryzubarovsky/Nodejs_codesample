@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "name": "Brazil",
+    "code": "BR",
+    "states": [
+      {
+        "id": 2,
+        "name": "Acre",
+        "code": "AC"
+      },
+      {
+        "id": 3,
+        "name": "Alagoas",
+        "code": "AL"
+      },
+      {
+        "id": 4,
+        "name": "Amapa",
+        "code": "AP"
+      },
+      {
+        "id": 5,
+        "name": "Amazonas",
+        "code": "AM"
+      },
+      {
+        "id": 6,
+        "name": "Bahia",
+        "code": "BA"
+      },
+      {
+        "id": 7,
+        "name": "Ceara",
+        "code": "CE"
+      },
+      {
+        "id": 8,
+        "name": "Distrito Federal",
+        "code": "DF"
+      },
+      {
+        "id": 9,
+        "name": "Espirito Santo",
+        "code": "ES"
+      },
+      {
+        "id": 10,
+        "name": "Goias",
+        "code": "GO"
+      },
+      {
+        "id": 11,
+        "name": "Maranhao",
+        "code": "MA"
+      },
+      {
+        "id": 12,
+        "name": "Mato Grosso",
+        "code": "MT"
+      },
+      {
+        "id": 13,
+        "name": "Mato Grosso do Sul",
+        "code": "MS"
+      },
+      {
+        "id": 14,
+        "name": "Minas Gerais",
+        "code": "MG"
+      },
+      {
+        "id": 15,
+        "name": "Para",
+        "code": "PA"
+      },
+      {
+        "id": 16,
+        "name": "Paraiba",
+        "code": "PB"
+      },
+      {
+        "id": 17,
+        "name": "Parana",
+        "code": "PR"
+      },
+      {
+        "id": 18,
+        "name": "Pernambuco",
+        "code": "PE"
+      },
+      {
+        "id": 19,
+        "name": "Piaui",
+        "code": "PI"
+      },
+      {
+        "id": 20,
+        "name": "Rio de Janeiro",
+        "code": "RJ"
+      },
+      {
+        "id": 21,
+        "name": "Rio Grande do Norte",
+        "code": "RN"
+      },
+      {
+        "id": 22,
+        "name": "Rio Grande do Sul",
+        "code": "RS"
+      },
+      {
+        "id": 23,
+        "name": "Rondonia",
+        "code": "RO"
+      },
+      {
+        "id": 24,
+        "name": "Roraima",
+        "code": "RR"
+      },
+      {
+        "id": 25,
+        "name": "Santa Catarina",
+        "code": "SC"
+      },
+      {
+        "id": 26,
+        "name": "Sao Paulo",
+        "code": "SP"
+      },
+      {
+        "id": 27,
+        "name": "Sergipe",
+        "code": "SE"
+      },
+      {
+        "id": 28,
+        "name": "Tocantins",
+        "code": "TO"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Argentina",
+    "code": "AR",
+    "states": null
+  },
+  {
+    "id": 3,
+    "name": "Australia",
+    "code": "AU",
+    "states": null
+  },
+  {
+    "id": 4,
+    "name": "Austria",
+    "code": "AT",
+    "states": null
+  },
+  {
+    "id": 5,
+    "name": "Belgium",
+    "code": "BE",
+    "states": null
+  },
+  {
+    "id": 6,
+    "name": "Canada",
+    "code": "CA",
+    "states": null
+  },
+  {
+    "id": 7,
+    "name": "Chile",
+    "code": "CL",
+    "states": null
+  },
+  {
+    "id": 8,
+    "name": "China",
+    "code": "CN",
+    "states": null
+  },
+  {
+    "id": 9,
+    "name": "Czech Republic",
+    "code": "CZ",
+    "states": null
+  },
+  {
+    "id": 10,
+    "name": "Denmark",
+    "code": "DK",
+    "states": null
+  },
+  {
+    "id": 11,
+    "name": "Ecuador",
+    "code": "EC",
+    "states": null
+  },
+  {
+    "id": 12,
+    "name": "Egypt",
+    "code": "EG",
+    "states": null
+  },
+  {
+    "id": 13,
+    "name": "Estonia",
+    "code": "EE",
+    "states": null
+  },
+  {
+    "id": 14,
+    "name": "Finland",
+    "code": "FI",
+    "states": null
+  },
+  {
+    "id": 15,
+    "name": "France",
+    "code": "FR",
+    "states": null
+  },
+  {
+    "id": 16,
+    "name": "Germany",
+    "code": "DE",
+    "states": null
+  },
+  {
+    "id": 17,
+    "name": "Greece",
+    "code": "GR",
+    "states": null
+  },
+  {
+    "id": 18,
+    "name": "Hungary",
+    "code": "HU",
+    "states": null
+  },
+  {
+    "id": 19,
+    "name": "Iceland",
+    "code": "IS",
+    "states": null
+  },
+  {
+    "id": 20,
+    "name": "India",
+    "code": "IN",
+    "states": null
+  },
+  {
+    "id": 21,
+    "name": "Ireland",
+    "code": "IE",
+    "states": null
+  },
+  {
+    "id": 22,
+    "name": "Israel",
+    "code": "IL",
+    "states": null
+  },
+  {
+    "id": 23,
+    "name": "Italy",
+    "code": "IT",
+    "states": null
+  },
+  {
+    "id": 24,
+    "name": "Japan",
+    "code": "JP",
+    "states": null
+  },
+  {
+    "id": 25,
+    "name": "Luxembourg",
+    "code": "LU",
+    "states": null
+  },
+  {
+    "id": 26,
+    "name": "Mexico",
+    "code": "MX",
+    "states": null
+  },
+  {
+    "id": 27,
+    "name": "Netherlands",
+    "code": "NL",
+    "states": null
+  },
+  {
+    "id": 28,
+    "name": "New Zealand",
+    "code": "NZ",
+    "states": null
+  },
+  {
+    "id": 29,
+    "name": "Norway",
+    "code": "NO",
+    "states": null
+  },
+  {
+    "id": 30,
+    "name": "Poland",
+    "code": "PL",
+    "states": null
+  },
+  {
+    "id": 31,
+    "name": "Russia",
+    "code": "RU",
+    "states": null
+  },
+  {
+    "id": 32,
+    "name": "Slovakia",
+    "code": "SK",
+    "states": null
+  },
+  {
+    "id": 33,
+    "name": "Slovenia",
+    "code": "SI",
+    "states": null
+  },
+  {
+    "id": 34,
+    "name": "Spain",
+    "code": "ES",
+    "states": null
+  },
+  {
+    "id": 35,
+    "name": "Sweden",
+    "code": "SE",
+    "states": null
+  },
+  {
+    "id": 36,
+    "name": "Switzerland",
+    "code": "CH",
+    "states": null
+  },
+  {
+    "id": 37,
+    "name": "Turkey",
+    "code": "TR",
+    "states": null
+  },
+  {
+    "id": 38,
+    "name": "United Kingdom",
+    "code": "GB",
+    "states": null
+  },
+  {
+    "id": 39,
+    "name": "United States",
+    "code": "US",
+    "states": null
+  }
+]
